@@ -1,0 +1,19 @@
+body  {
+  background-color: aquamarine;  
+  margin-bottom: 40px;
+margin-top: 40px;
+margin-right: 40px;
+margin-left: 40px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 12pt;
+color: coral;
+}
+h1 {
+    color: deeppink;
+    background-color: lightsalmon;
+    text-align: center;
+    }
+    img { height: 200px;
+    }
+    img:hover{
+        
